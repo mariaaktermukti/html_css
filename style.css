@@ -1,0 +1,38 @@
+/* h1{
+    color:black;
+}
+
+p{
+    color:rgb(1, 15, 5);
+}
+
+button{
+    color:black;
+    background-color: yellow;
+}
+body{
+    background-color: #34cfeb;
+} */
+
+/* if we use Universal selector(*) */
+*{
+    color:black;
+}
+h1{
+    color: rgb(206, 16, 16);
+}
+button{
+    color:rgb(18, 199, 93);
+}
+
+#headingOne {
+    color: blueviolet;
+}
+
+#headingTwo {
+    color:blue;
+}
+
+.colorChange{
+      color:chartreuse;
+}

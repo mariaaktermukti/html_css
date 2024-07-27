@@ -1,0 +1,14 @@
+#box{
+    background-color: palevioletred;
+    color:black;
+}
+/* .heading{
+    color:rgb(241, 132, 7);
+} */
+/* we can use both .heading and h1,h2,h3 */
+h1,h2,h3{
+    color:rgb(241,132,7);
+}
+button{
+    background-color: chocolate;
+}
