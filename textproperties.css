@@ -1,3 +1,28 @@
 p {
+    text-align: left;
+}
+h1{
     text-align: center;
+    text-decoration: red underline;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+#H1{
+    font-weight: normal;
+}
+#one{
+     font-family: Arial;
+}
+#two{
+    font-family: 'Segoe UI';
+}
+#demo1{
+    font-size: 30px;
+    line-height: normal;
+    text-transform: normal;
+}
+#demo3{
+     font-size: 10px;
 }
