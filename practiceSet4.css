@@ -1,0 +1,35 @@
+/* *{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+} */
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+button{
+   background-color:#f08804;
+}
+#logo{
+    color:#f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 180px;
+    text-decoration: none;
+}
+
+.ContentBox{
+    height: 100px;
+    width: 150px;
+    border: 2px solid;
+    display: inline-block;
+}
+footer{
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+#Content{
+    height: 520px;
+}
