@@ -1,0 +1,54 @@
+h1{
+  text-align: left;
+  text-decoration: solid;
+}
+
+#one{
+    background-color:aqua;
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+#two{
+    background-color:rgb(148, 140, 221);
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    display:none;
+}
+#three{
+    background-color:rgb(97, 236, 183);
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block ;
+}
+#four{
+    background-color:rgb(243, 211, 153);
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+#AlphaChannel1{
+    background-color:rgba(255,0,0,0.5);
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline;
+}
+#AlphaChannel2{
+    background-color:rgba(255,0,0,00.79);
+    height: 300px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display:inline;
+}
