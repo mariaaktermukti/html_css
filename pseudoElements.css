@@ -1,0 +1,28 @@
+button{
+    display: block ;
+}
+
+button:hover{
+    background-color: skyblue;
+    height: 30px;
+}
+button:active{
+    background-color: red;
+    qua;
+}
+input[type="radio"]:checked + label {
+    color: red;
+    font-weight: bold;
+}
+h1::first-letter{
+    color:red;
+}
+p{
+    color:black;
+}
+p::first-line{
+    color:chartreuse;
+}
+p::selection{
+    background-color: pink;
+}
