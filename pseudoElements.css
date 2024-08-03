@@ -15,7 +15,7 @@ input[type="radio"]:checked + label {
     font-weight: bold;
 }
 h1::first-letter{
-    color:red;
+    color:green;
 }
 p{
     color:black;
@@ -24,5 +24,11 @@ p::first-line{
     color:chartreuse;
 }
 p::selection{
+    background-color: pink;
+}
+h1{
+    background-color: red;
+}
+h1{
     background-color: pink;
 }
