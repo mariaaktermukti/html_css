@@ -1,0 +1,32 @@
+.card{
+    width: 200px;
+    height: auto;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8 px black;
+}
+
+img{
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+}
+
+.desc {
+
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+
+}
+.desc h3,p{
+
+   margin: 0px;
+}
+
+.card:hover{
+    box-shadow: 0 8px 16px black;
+}
