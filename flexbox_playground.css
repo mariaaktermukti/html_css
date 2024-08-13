@@ -5,7 +5,8 @@
     border: 3px solid black;
     margin: 10px auto;
     display: flex;
-     flex-direction: column; 
+     flex-direction: column;
+     flex-direction: row-reverse;
 }
 h1{
     text-align: center;
